@@ -1,0 +1,43 @@
+[log 2011/08/19 15:21:46] ------------------------
+File: p19_v1.0_Theme_of_Tora.mscz
+	edit:msr10-11
+[/log 2011/08/19 15:21:46] ------------------------
+
+[log 2011/08/19 16:47:00] ------------------------
+<job>: Logging
+File: p19_v1.0_Theme_of_Tora.mscz
+	testing...
+[/log 2011/08/19 16:47:00] ------------------------
+
+[log 2011/08/19 16:47:34] ------------------------
+<job>: Versioning
+File: p19_v1.0_Theme_of_Tora.mscz
+	Version file: version~p19_v1.0_Theme_of_Tora.mscz=1.2
+	New version file: version~p19_v1.0_Theme_of_Tora.mscz=1.3
+[/log 2011/08/19 16:47:34] ------------------------
+
+[log 2011/08/22 15:29:48] ------------------------
+<job>: Logging
+File: p19_v1.0_Theme_of_Tora.mscz
+	add:msr:25~
+[/log 2011/08/22 15:29:48] ------------------------
+
+[log 2011/08/22 15:32:08] ------------------------
+<job>: Versioning
+File: p19_v1.0_Theme_of_Tora.mscz
+	Version file: version~p19_v1.0_Theme_of_Tora.mscz=1.3
+	New version file: version~p19_v1.0_Theme_of_Tora.mscz=1.4
+[/log 2011/08/22 15:32:08] ------------------------
+
+[log 2011/08/22 15:51:10] ------------------------
+<job>: Logging
+File: p19_v1.0_Theme_of_Tora.mscz
+	add:msr:25~52
+[/log 2011/08/22 15:51:10] ------------------------
+
+[log 2011/08/22 15:53:04] ------------------------
+<job>: Logging
+File: p19_v1.0_Theme_of_Tora.mscz
+	save_as_pdf
+[/log 2011/08/22 15:53:04] ------------------------
+

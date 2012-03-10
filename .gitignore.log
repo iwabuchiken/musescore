@@ -1,0 +1,322 @@
+root_path= C:\WORKS\WORKSPACES\musescore
+[LINE:182]
+dirs_a= ['.git', 'MuseScore', 'opuses', 'styles', 'works']
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', '.git']
+new_path= ./.git
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\.git
+os.listdir(current_path)= ['COMMIT_EDITMSG', 'config', 'description', 'HEAD', 'hooks', 'index', 'info', 'logs', 'objects', 'packed-refs', 'refs']
+next_path_a= ['hooks', 'info', 'logs', 'objects', 'refs']
+	C:\WORKS\WORKSPACES\musescore\.git\hooks
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', '.git', 'hooks']
+new_path= ./.git/hooks
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\.git\hooks
+os.listdir(current_path)= ['applypatch-msg.sample', 'commit-msg.sample', 'post-commit.sample', 'post-receive.sample', 'post-update.sample', 'pre-applypatch.sample', 'pre-commit.sample', 'pre-rebase.sample', 'prepare-commit-msg.sample', 'update.sample']
+next_path_a= []
+
+	C:\WORKS\WORKSPACES\musescore\.git\info
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', '.git', 'info']
+new_path= ./.git/info
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\.git\info
+os.listdir(current_path)= ['exclude']
+next_path_a= []
+
+	C:\WORKS\WORKSPACES\musescore\.git\logs
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', '.git', 'logs']
+new_path= ./.git/logs
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\.git\logs
+os.listdir(current_path)= ['HEAD', 'refs']
+next_path_a= ['refs']
+	C:\WORKS\WORKSPACES\musescore\.git\logs\refs
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', '.git', 'logs', 'refs']
+new_path= ./.git/logs/refs
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\.git\logs\refs
+os.listdir(current_path)= ['heads', 'remotes']
+next_path_a= ['heads', 'remotes']
+	C:\WORKS\WORKSPACES\musescore\.git\logs\refs\heads
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', '.git', 'logs', 'refs', 'heads']
+new_path= ./.git/logs/refs/heads
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\.git\logs\refs\heads
+os.listdir(current_path)= ['master']
+next_path_a= []
+
+	C:\WORKS\WORKSPACES\musescore\.git\logs\refs\remotes
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', '.git', 'logs', 'refs', 'remotes']
+new_path= ./.git/logs/refs/remotes
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\.git\logs\refs\remotes
+os.listdir(current_path)= ['origin']
+next_path_a= ['origin']
+	C:\WORKS\WORKSPACES\musescore\.git\logs\refs\remotes\origin
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', '.git', 'logs', 'refs', 'remotes', 'origin']
+new_path= ./.git/logs/refs/remotes/origin
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\.git\logs\refs\remotes\origin
+os.listdir(current_path)= ['HEAD', 'master']
+next_path_a= []
+
+
+
+
+	C:\WORKS\WORKSPACES\musescore\.git\objects
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', '.git', 'objects']
+new_path= ./.git/objects
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\.git\objects
+os.listdir(current_path)= ['27', '28', '42', '74', 'cc', 'info', 'pack']
+next_path_a= ['27', '28', '42', '74', 'cc', 'info', 'pack']
+	C:\WORKS\WORKSPACES\musescore\.git\objects\27
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', '.git', 'objects', '27']
+new_path= ./.git/objects/27
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\.git\objects\27
+os.listdir(current_path)= ['9889a5fd4c2fb6011d832ae6cbf221c119dc9c']
+next_path_a= []
+
+	C:\WORKS\WORKSPACES\musescore\.git\objects\28
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', '.git', 'objects', '28']
+new_path= ./.git/objects/28
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\.git\objects\28
+os.listdir(current_path)= ['97fa0bea140172df1dfe3040f0eca5949aad42']
+next_path_a= []
+
+	C:\WORKS\WORKSPACES\musescore\.git\objects\42
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', '.git', 'objects', '42']
+new_path= ./.git/objects/42
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\.git\objects\42
+os.listdir(current_path)= ['9ed445cd90952327adf1c2e6ab33a969593b1b']
+next_path_a= []
+
+	C:\WORKS\WORKSPACES\musescore\.git\objects\74
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', '.git', 'objects', '74']
+new_path= ./.git/objects/74
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\.git\objects\74
+os.listdir(current_path)= ['c7392c3e2f10a373d3aa25520f5f8893f4dba9']
+next_path_a= []
+
+	C:\WORKS\WORKSPACES\musescore\.git\objects\cc
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', '.git', 'objects', 'cc']
+new_path= ./.git/objects/cc
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\.git\objects\cc
+os.listdir(current_path)= ['22246fe75bb6d1285a684bae7aa1d7d61ed4e2']
+next_path_a= []
+
+	C:\WORKS\WORKSPACES\musescore\.git\objects\info
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', '.git', 'objects', 'info']
+new_path= ./.git/objects/info
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\.git\objects\info
+os.listdir(current_path)= []
+next_path_a= []
+
+	C:\WORKS\WORKSPACES\musescore\.git\objects\pack
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', '.git', 'objects', 'pack']
+new_path= ./.git/objects/pack
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\.git\objects\pack
+os.listdir(current_path)= ['pack-c9da1e646bb9fcc2c446896932c171bcdb3027f3.idx', 'pack-c9da1e646bb9fcc2c446896932c171bcdb3027f3.pack']
+next_path_a= []
+
+
+	C:\WORKS\WORKSPACES\musescore\.git\refs
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', '.git', 'refs']
+new_path= ./.git/refs
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\.git\refs
+os.listdir(current_path)= ['heads', 'remotes', 'tags']
+next_path_a= ['heads', 'remotes', 'tags']
+	C:\WORKS\WORKSPACES\musescore\.git\refs\heads
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', '.git', 'refs', 'heads']
+new_path= ./.git/refs/heads
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\.git\refs\heads
+os.listdir(current_path)= ['master']
+next_path_a= []
+
+	C:\WORKS\WORKSPACES\musescore\.git\refs\remotes
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', '.git', 'refs', 'remotes']
+new_path= ./.git/refs/remotes
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\.git\refs\remotes
+os.listdir(current_path)= ['origin']
+next_path_a= ['origin']
+	C:\WORKS\WORKSPACES\musescore\.git\refs\remotes\origin
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', '.git', 'refs', 'remotes', 'origin']
+new_path= ./.git/refs/remotes/origin
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\.git\refs\remotes\origin
+os.listdir(current_path)= ['HEAD', 'master']
+next_path_a= []
+
+
+	C:\WORKS\WORKSPACES\musescore\.git\refs\tags
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', '.git', 'refs', 'tags']
+new_path= ./.git/refs/tags
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\.git\refs\tags
+os.listdir(current_path)= []
+next_path_a= []
+
+
+
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', 'MuseScore']
+new_path= ./MuseScore
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\MuseScore
+os.listdir(current_path)= ['e1_v1.mscz', 'e2_v1_arpeggio_GABCD.mscz', 'e3_v1~cadence_three_codes.mscz', 'et', 'g', 'p', 'P_02_K=Am_Andante_v1-0.mscz', 'P_new', 'P_new2', 's', 'V_4_v-1.0.mscz']
+next_path_a= ['et', 'g', 'p', 'P_new', 'P_new2', 's']
+	C:\WORKS\WORKSPACES\musescore\MuseScore\et
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', 'MuseScore', 'et']
+new_path= ./MuseScore/et
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\MuseScore\et
+os.listdir(current_path)= ['.et_03_6_codes.mscz,', '.et_2.mscz,', 'et_03_6_codes.mscz', 'et_04_BWV_Prelude.mscz', 'et_1.mscz', 'et_2.mscz']
+next_path_a= []
+
+	C:\WORKS\WORKSPACES\musescore\MuseScore\g
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', 'MuseScore', 'g']
+new_path= ./MuseScore/g
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\MuseScore\g
+os.listdir(current_path)= ['.p16_g_2codes_1_C~FM7_v1.0.mscz,', 'p16_g_2codes_1_C~FM7_v1.0.mscz']
+next_path_a= []
+
+	C:\WORKS\WORKSPACES\musescore\MuseScore\p
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', 'MuseScore', 'p']
+new_path= ./MuseScore/p
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\MuseScore\p
+os.listdir(current_path)= ['.et_collections_1.mscz,', '.ph1_v1u0.mscz,', '.ph2_110829~_v1.0.mscz,', '.ph_3_M110905001_v1.0.mscz,', '.TEMPLATE_01.mscz,', 'log', 'op_01_v1p1_romance_at_dusk.mscz', 'Op_27_v1p1_pony_trott.mscz', 'Op_27_v1p2_pony_trott.mscz', 'op_28_v1p1_csardas_like.mscz', 'op_28_v1p2_csardas_like.mscz', 'op_28_v1p3_csardas_like.mscz', 'Op_29_v1p1_north_pole.mscz', 'Op_29_v1p2_north_pole.mscz', 'op_30_v1p1_banquet.mscz', 'Op_31_v1p1_intense.mscz', 'Op_31_v1p2_intense.mscz', 'p10_v1u1_grief_of_an_old_resolute_man.mscz', 'p11_v1.1_multiple_notes.mscz', 'p11_v1u1_multiple_notes.mscz', 'p12_v1.mscz', 'p13_v1.0_3codes_CFG.mscz', 'p13_v1.1_3codes_CFG.mscz', 'p14_v1.0_guitar_1_a_minor.mscz', 'p15_P_v1.0_solo_1.mscz', 'p16_v_solo_from_bach_cello_suite_No6_Gigue_I_v1.mscz', 'p17_2_string_melody_v1.mscz', 'p18_v_v1.mscz', 'p19_v1.0_Theme_of_Tora.mscz', 'p1_v1_summer_afternoon_in_the_meadow.mscz', 'p2_v1_tristesse_at_dusk.mscz', 'p3_v1_trait_of_sorrow_at_the_festival.mscz', 'p4.p1_dance_of_sorrowful_adult_gypsy_woman.mscz', 'p5_v1_dance_of_sorrowful_adult_gypsy_woman_act_2.mscz', 'p6_v1_\x83s\x83A\x83m\x82\xcc\x82\xbd\x82\xdf\x82\xcc\x8f\xac\x8b\xc8.mscz', 'p7_v1p1.mscz', 'p7_v1u0_inspired_BWV1007.mscz', 'p8_v1p1_dance_of_sorrowful_adult_gypsy_woman_act_3_soul_of_sorrow_and_peace.mscz', 'p8_v1u2_dance_of_sorrowful_adult_gypsy_woman_act_3_soul_of_sorrow_and_peace.mscz', 'p9_v1u1_violin_duet_two_young_sistets.mscz', 'ph1_v1u0.mscz', 'ph2_110829~_v1.0.mscz', 'ph_3_M110905001_v1.0.mscz', 'ph_4.mscz', 'ph_4_M110902001_v1.0.mscz', 'ph_4_M110909002_v1.0.mscz', 'ph_5_from_BWV_Prelude.mscz', 'STOR_p', 'TEMPLATE_01.mscz']
+next_path_a= ['log', 'STOR_p']
+	C:\WORKS\WORKSPACES\musescore\MuseScore\p\log
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', 'MuseScore', 'p', 'log']
+new_path= ./MuseScore/p/log
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\MuseScore\p\log
+os.listdir(current_path)= ['p16_v_solo_from_bach_cello_suite_No6_Gigue_I_v1_mscz.log', 'p19_v1_0_Theme_of_Tora.log', 'ph1_v1u0_mscz.log', 'ph_3_M110905001_v1_0.log']
+next_path_a= []
+
+	C:\WORKS\WORKSPACES\musescore\MuseScore\p\STOR_p
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', 'MuseScore', 'p', 'STOR_p']
+new_path= ./MuseScore/p/STOR_p
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\MuseScore\p\STOR_p
+os.listdir(current_path)= ['p16_v_solo_from_bach_cello_suite_No6_Gigue_I_v1~v1u0.mscz', 'p19_v1.0_Theme_of_Tora~v1u0.mscz', 'p19_v1.0_Theme_of_Tora~v1u1.mscz', 'p19_v1.0_Theme_of_Tora~v1u2.mscz', 'p19_v1.0_Theme_of_Tora~v1u3.mscz', 'ph_3_M110905001_v1.0~v1u0.mscz', 'version~.p19_v1.0_Theme_of_Tora.mscz=1.0', 'version~p16_v_solo_from_bach_cello_suite_No6_Gigue_I_v1.mscz=1.1', 'version~p19_v1.0_Theme_of_Tora.mscz=1.4', 'version~ph_3_M110905001_v1.0.mscz=1.1']
+next_path_a= []
+
+
+	C:\WORKS\WORKSPACES\musescore\MuseScore\P_new
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', 'MuseScore', 'P_new']
+new_path= ./MuseScore/P_new
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\MuseScore\P_new
+os.listdir(current_path)= ['.P003_M120104001.wav.mscz,', 'P001.mscz', 'P002.mscz', 'P003_M120104001.wav.mscz']
+next_path_a= []
+
+	C:\WORKS\WORKSPACES\musescore\MuseScore\P_new2
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', 'MuseScore', 'P_new2']
+new_path= ./MuseScore/P_new2
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\MuseScore\P_new2
+os.listdir(current_path)= ['.V_1_v1.0.mscz,', '.V_1_v1.1.mscz,', '.V_3_key-D_v1.0.mscz,', '.V_4_key-FSminor_R-120113-1752-0001_v1.0.mscz,', 'P_001_free.mscz', 'P_02_K=Am_Andante_v1-0.pdf', 'P_02_K=Am_Andante_v=1-1.mscz', 'P_02_K=Am_Andante_v=1-1.pdf', 'R-2_M120125-1658-0001_k=Am_v=1~0.mscz', 'R-2_M120125-1658-0001_k=Am_v=1~0.pdf', 'R_1_v1.0.mscz', 'V_1.mscz', 'V_1_v1.0.mscz', 'V_1_v1.1.mscz', 'V_1_v1.1.pdf', 'V_1_v1.pdf', 'V_2_key-Gminor_v1-1.pdf', 'V_2_key-Gminor_v1.0.mscz', 'V_3_key-D_v1-0.pdf', 'V_3_key-D_v1.0.mscz', 'V_4_key-FSminor_R-120113-1752-0001_v-1.0mscz.pdf', 'V_4_key-FSminor_R-120113-1752-0001_v1.0.mscz', 'V_5_k=Am_M120123001_v1.0.mscz', 'V_5_k=Am_v-1.0.pdf']
+next_path_a= []
+
+	C:\WORKS\WORKSPACES\musescore\MuseScore\s
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', 'MuseScore', 's']
+new_path= ./MuseScore/s
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\MuseScore\s
+os.listdir(current_path)= ['.s12_v1.0_Liebesleid_Kreisler.mscz,', '.s22_BWV_1068_v1.0.mscz,', '.s23_albioni_v1.0.mscz,', '.s28_Bach_Suite_1_Prelude_in_D.mscz,', '.s6_v1u0_BWV_1007_n1_Prelude.mscz,', 'log', 's10_v1.0_Jupiter_Holst.mscz', 's11_v1.0_Hanamizuki.mscz', 's12_v1.0_Liebesleid_Kreisler.mscz', 's13_v1.0_Sailor_Machine_Gun.mscz', 's14_v1.0_Main_Theme.mscz', 's15_v1.0_Stars_on_the_Terra.mscz', 's16_v1.0_Azami_Lullaby.mscz', 's17_v1.0_kariyushi_koiuta.mscz', 's18_Sakimori_v1.0.mscz', 's19_strawberry_v1.mscz', 's1_v1_theme_of_silkroad_film.mscz', 's20_Captain_Arigato_v1.0.mscz', 's21_v1 (2).mscz', 's21_v1.mscz', 's22_BWV_1068_v1.0.mscz', 's23_albioni_v1.0.mscz', 's24_LiebesFreud_Kreisler_v1.0.mscz', 's25_cocco_raining.mscz', 's26_\x90\xa2\x8aE\x82\xcc\x8e\xd4\x91\x8b\x82\xa9\x82\xe7.mscz', 's27_\x90\xed\x8f\xea\x82\xcc\x83\x81\x83\x8a\x81[\x83N\x83\x8a\x83X\x83}\x83X.mscz', 's28_Bach_Suite_1_Prelude_in_D.mscz', 's29_Canon_Pachelbel.mscz', 's2_v1u1_Naucicaa_the_young_Oum.mscz', 's2_v1_Naucicaa_the_young_Oum.mscz', 's30_McMaster_Blue_River.mscz', 's31_enya_only_if.mscz', 's3_v1u1_Be_the_change.mscz', 's4_v1u1_Csardas.mscz', 's4_v1u2_Csardas.mscz', 's5_v1u1_BWV_1068.mscz', 's6_v1u0_BWV_1007_n1_Prelude.mscz', 's7_v1u0_BWV_1017_n6_Gavotte1.mscz', 's8_v1.1_BWV147_Jesu_joy.mscz', 's8_v1_BWV147_Jesu_joy.mscz', 's9_v1.0_BWV_1068_Air.mscz', 'sp', 'STOR_s']
+next_path_a= ['log', 'sp', 'STOR_s']
+	C:\WORKS\WORKSPACES\musescore\MuseScore\s\log
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', 'MuseScore', 's', 'log']
+new_path= ./MuseScore/s/log
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\MuseScore\s\log
+os.listdir(current_path)= ['s22_BWV_1068_v1_0.log']
+next_path_a= []
+
+	C:\WORKS\WORKSPACES\musescore\MuseScore\s\sp
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', 'MuseScore', 's', 'sp']
+new_path= ./MuseScore/s/sp
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\MuseScore\s\sp
+os.listdir(current_path)= ['sp_1_Yamazaki_1.mscz', 'sp_2_Omoide_ga_ippai.mscz']
+next_path_a= []
+
+	C:\WORKS\WORKSPACES\musescore\MuseScore\s\STOR_s
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', 'MuseScore', 's', 'STOR_s']
+new_path= ./MuseScore/s/STOR_s
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\MuseScore\s\STOR_s
+os.listdir(current_path)= ['s22_BWV_1068_v1.0~v1u0.mscz', 'version~s22_BWV_1068_v1.0.mscz=1.1']
+next_path_a= []
+
+
+
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', 'opuses']
+new_path= ./opuses
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\opuses
+os.listdir(current_path)= []
+next_path_a= []
+
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', 'styles']
+new_path= ./styles
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\styles
+os.listdir(current_path)= ['basic_1_part-1.mss']
+next_path_a= []
+
+['.exe', '.tds', '.obj', '.class', '.mk']
+new_path_a= ['.', 'works']
+new_path= ./works
+[LINE:136]
+current_path= C:\WORKS\WORKSPACES\musescore\works
+os.listdir(current_path)= ['.wk_01.mscz,', '.wk_02-M120308002.mscz,', 'wk_01.mscz', 'wk_01.pdf', 'wk_02-M120308002.mscz', 'wk_02-M120308002.pdf']
+next_path_a= []
+
